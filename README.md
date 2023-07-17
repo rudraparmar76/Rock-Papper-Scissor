@@ -1,7 +1,7 @@
 # Rock-Papper-Scissor
 A simple web-based implementation of the classic Rock-Paper-Scissors game, built using PHP, HTML, and CSS. Play against the computer or run random tests to check game functionality.
 
-![Rock-Paper-Scissors](https://github.com/rudraparmar76/Rock-Papper-Scissor/raw/main/screenshot.png)
+![Rock-Paper-Scissors](https://github.com/rudraparmar76/Rock-Papper-Scissor/blob/main/rps/example.png)
 
 ## Features
 
